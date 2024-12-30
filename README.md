@@ -32,10 +32,10 @@ This project allows users to browse, add items to the cart, place orders, and ma
 ## 📸 Screenshots  
 
 ### Homepage  
-![Homepage](https://i.ibb.co/PrT8mJb/sample-image.jpg)  
+![Homepage](HomePage.jpg)  
 
 ### Cart Page  
-![Cart Page](https://i.ibb.co/your-direct-cart-page-link.jpg)  
+![Cart Page](Cart.jpg)  
 
 
 ---
