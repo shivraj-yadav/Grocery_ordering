@@ -31,7 +31,7 @@ This project allows users to browse, add items to the cart, place orders, and ma
 
 ## 📸 Screenshots  
 ### Homepage  
-![Homepage](https://via.placeholder.com/800x400?text=Homepage+Screenshot)  
+![Homepage](https://ibb.co/VQKdvyL)  
 
 ### Cart Page  
 ![Cart Page](https://via.placeholder.com/800x400?text=Cart+Page+Screenshot)  
