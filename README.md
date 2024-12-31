@@ -43,5 +43,5 @@ This project allows users to browse, add items to the cart, place orders, and ma
 ## ⚙️ Setup Instructions  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/yourusername/grocery-ordering-app.git  
+   git clone https://github.com/shivraj-yadav/grocery-ordering-app.git  
 
